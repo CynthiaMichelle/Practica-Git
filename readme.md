@@ -1,8 +1,8 @@
 1)¿Qué comando utilizaste en el paso 11? ¿Por qué?.
 
-Deshacer el último commit (perdiendo los cambios realizados en el    working copy). 
+Deshacer el último commit (perdiendo los cambios realizados en el working copy). 
 
-He utilizado el comando git reset --hard HEAD~1 ya que si utilizaba el comando git reset HEAD~1 deshace el último commit pero mantiene lo que había en mi working copy.
+He utilizado el comando git reset -- hard HEAD~1 ya que si utilizaba el comando git reset HEAD~1 deshace el último commit pero mantiene lo que había en mi working copy.
 
 
 
